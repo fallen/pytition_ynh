@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/pytition/Pytition/archive/refs/tags/v2.5.tar.gz
-SOURCE_SUM=09d8398f905df3f31e7fbe5cdc435f3f58f2cce6acef700c38b4c83059ec6950
+SOURCE_URL=https://github.com/pytition/Pytition/archive/refs/tags/image_upload_test.tar.gz
+SOURCE_SUM=91857086e7fa47ff0c36355f1565704d70d2ccf5e493de765f0bc6676da8654e
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
